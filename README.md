@@ -28,8 +28,8 @@ Learning resources are free to access; some need a free account. APIs, cloud ser
 
 | Status | Time  | Description                              |
 |--------|-------|------------------------------------------|
-| 🔄     | 00:00 | The roadmap: 12 weeks, 4 projects        |
-| ⬜     | 02:24 | Week 1: Python, GitHub, APIs, testing    |
+| ✅     | 00:00 | The roadmap: 12 weeks, 4 projects        |
+| 🔄     | 02:24 | Week 1: Python, GitHub, APIs, testing    |
 | ⬜     | 03:52 | Week 2: Automated tests and optional ML  |
 | ⬜     | 04:56 | Week 3: SQL and PostgreSQL               |
 | ⬜     | 05:27 | Week 4: LLMs, tokens, embeddings         |
@@ -46,7 +46,7 @@ Learning resources are free to access; some need a free account. APIs, cloud ser
 
 ## LEARNING RESOURCES
 
-### WEEK 1 | Project 1: News summarizer
+### [WEEK 1 | Project 1: News summarizer](./week01/README.md)
 - Python for AI - Dave Ebbelaar: https://youtu.be/ygXn5nV5qFc
 - uv - Corey Schafer: https://youtu.be/AMdG7IjgSPM
 - GitHub Hello World: https://docs.github.com/en/get-started/start-your-journey/hello-world
